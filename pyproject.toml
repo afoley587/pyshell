@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pyshell"
+version = "0.1.0"
+description = ""
+authors = ["Alexander Foley <alexandergfoley@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pyshell"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pyfiglet = "^0.8.post1"
+colorama = "^0.4.6"
+requests = "^2.31.0"
+bs4 = "^0.0.1"
+asciimatics = "^1.14.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
