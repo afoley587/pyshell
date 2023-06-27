@@ -180,5 +180,9 @@ All of the outputs are posted below though, and all code can be found here on [G
 
 Let's see a demo below of running through the commands:
 
-![](./img/demo.mov)
+
+
+
+https://github.com/afoley587/pyshell/assets/54959686/4323a413-3c3f-4bcb-beb4-667e3f071d2f
+
 
